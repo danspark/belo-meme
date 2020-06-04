@@ -1,2 +1,2 @@
 # Belo meme
-[Belo meme!](www.belome.me)
+[Belo meme!](http://www.belome.me)
